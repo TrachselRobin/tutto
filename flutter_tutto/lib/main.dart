@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'screens/screen_one.dart';
+import 'screens/home.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: ScreenOne(),
+    home: Home(),
   ));
 }
